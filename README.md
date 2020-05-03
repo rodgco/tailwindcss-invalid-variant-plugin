@@ -46,3 +46,12 @@ Now you should be able to use it in your code, as any other pseudo-class.
   invalid:border-t-2
 />
 ```
+
+## CONTRIBUTING
+
+- ⇄ Pull requests and ★ Stars are always welcome.
+- For bugs and feature requests, please create an issue.
+
+## CHANGELOG
+
+See [CHANGELOG.md](CHANGELOG.md)
