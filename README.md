@@ -1,6 +1,6 @@
 # Tailwind CSS Invalid Variant Plugin
 
-The invalid CSS selector is usefull for highlighting input errors that requires user attention. With this plugin you can use the variant selector with Tailwind as you normally do with the "hover" & "focus" selectors.
+The invalid CSS selector is usefull for highlighting input errors that requires user attention. With this plugin you can use the invalid variant selector with Tailwind as you normally do with the "hover" & "focus" selectors.
 
 ## Requirements
 
@@ -38,7 +38,7 @@ Now you should be able to use it in your code, as any other pseudo-class.
 ```html
 <input
   type="email"
-  class="p-1 bg-indigo-100 border-indigo-500 border-b-2 focus:outline-none invalid:border-red-500 invalid:bg-red-100 invalid:border-t-2"
+  class="invalid:border-red-500 invalid:bg-red-100 invalid:border-t-2 p-1 bg-indigo-100 border-indigo-500 border-b-2 focus:outline-none"
 />
 ```
 
