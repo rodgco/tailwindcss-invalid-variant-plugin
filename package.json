@@ -1,19 +1,19 @@
 {
-  "name": "tailwindcss-invalid-variant-plugin",
-  "version": "1.0.2",
-  "description": "Tailwind CSS that adds the invalid pseudo-class variant",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "npmpub"
-  },
-  "keywords": [],
-  "author": "Rodrigo Couto <r@rodg.co>",
-  "license": "ISC",
-  "repository": "https://github.com/rodgco/tailwindcss-invalid-variant-plugin",
-  "bugs": "https://github.com/rodgco/tailwindcss-invalid-variant-plugin/issues",
-  "homepage": "https://github.com/rodgco/tailwindcss-invalid-variant-plugin",
-  "devDependencies": {
-    "npmpub": "^5.0.0"
-  }
+	"name": "tailwindcss-invalid-variant-plugin",
+	"version": "1.0.3",
+	"description": "Tailwind CSS that adds the invalid pseudo-class variant",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"release": "npmpub"
+	},
+	"keywords": [],
+	"author": "Rodrigo Couto <r@rodg.co>",
+	"license": "ISC",
+	"repository": "https://github.com/rodgco/tailwindcss-invalid-variant-plugin",
+	"bugs": "https://github.com/rodgco/tailwindcss-invalid-variant-plugin/issues",
+	"homepage": "https://github.com/rodgco/tailwindcss-invalid-variant-plugin",
+	"devDependencies": {
+		"npmpub": "^5.0.0"
+	}
 }
